@@ -1,1 +1,1 @@
-![alt tag](https://raw.githubusercontent.com/fetchhell/ShadowMapping/master/screenshot.PNG)
+![alt tag](https://github.com/fetchhell/Billiard-balls/blob/master/screenshot.PNG)
