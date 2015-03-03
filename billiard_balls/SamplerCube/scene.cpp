@@ -323,7 +323,7 @@ void Scene::draw() {
 
 	KeyboardEvent();
 	
-	/* render shadowmap into framebuffer (to attached texture) */
+	/* render depth buffer into framebuffer (to attached texture - shadowmap) */
 	RenderShadowMap();
 	
 	glViewport(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT);
